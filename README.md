@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @moadel144q
-- 👀 I’m interested in Embyded System
-- 🌱 I’m currently learning C language and micro controller
+- 👋 Hi, I’m Mohamed Adel
+- 👀 I’m interested in Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohamed.adel76765@gmail.com
 
